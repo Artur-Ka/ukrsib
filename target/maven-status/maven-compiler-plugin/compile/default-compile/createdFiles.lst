@@ -1,0 +1,9 @@
+test_task\ukrsib\database\dao\TransactionDAO.class
+test_task\ukrsib\database\HibernateSessionFactory.class
+test_task\ukrsib\Main.class
+test_task\ukrsib\database\dao\ClientDAO$SingletonHolder.class
+test_task\ukrsib\model\Transaction.class
+test_task\ukrsib\Service.class
+test_task\ukrsib\database\dao\ClientDAO.class
+test_task\ukrsib\database\dao\TransactionDAO$SingletonHolder.class
+test_task\ukrsib\model\Client.class
